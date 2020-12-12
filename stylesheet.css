@@ -3,3 +3,72 @@
     background-color: rgb(228, 241, 241);
 }
 
+img{
+    width: 100%;
+}
+
+.text{
+    max-width: 900px;
+    color: #222;
+}
+
+h1{
+    margin: 2pc;
+}
+
+h2{
+    margin: 2pc;
+}
+
+h3{
+    margin-left: 2pc;
+}
+
+.nav-bar{
+    position: -webkit-sticky;
+  position: sticky;
+  top: 0px;
+  }
+
+.navigator{
+    list-style-type: none;
+}
+
+#headshot{
+    float: left;
+    margin: 2em;
+    margin-top: 0px;
+    width: 300px;
+}
+
+.title-bio{
+    margin-bottom: 130px;
+}
+
+.photography{
+    list-style-type: none;
+}
+
+.photography li {
+    width: 200px;
+    display: inline-block;
+    padding: 20px 10px;
+}
+
+.web-design li {
+    margin-bottom: 1pc;
+    
+}
+
+.videos li {
+    margin-bottom: 1pc;
+    
+}
+
+.videos {
+    margin-bottom: 100px;
+}
+
+#prism{
+    margin-bottom: 100px;
+}
